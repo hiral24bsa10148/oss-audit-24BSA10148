@@ -1,9 +1,9 @@
-# 🐍 OSS Audit — Python
+# OSS Audit — Python
 ### Open Source Software Capstone Project | VITyarthi
 
 ---
 
-## 👤 Student Details
+## Student Details
 
 | Field | Details |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 oss-audit-24BSA10148/
@@ -31,7 +31,7 @@ oss-audit-24BSA10148/
 
 ---
 
-## 🐚 Shell Scripts — Overview
+## Shell Scripts — Overview
 
 ### Script 1 — System Identity Report (`script1_system_identity.sh`)
 Displays a welcome screen with key system information including:
@@ -80,7 +80,7 @@ Interactively asks the user three questions and generates a personalised open so
 
 ---
 
-## ⚙️ How to Run the Scripts on Linux (WSL 2 — Ubuntu)
+## How to Run the Scripts on Linux (WSL 2 — Ubuntu)
 
 ### Prerequisites
 Make sure you have the following installed on your Ubuntu WSL 2 system:
@@ -124,4 +124,4 @@ chmod +x script5_manifesto.sh
 ./script5_manifesto.sh
 ```
 
----
+
